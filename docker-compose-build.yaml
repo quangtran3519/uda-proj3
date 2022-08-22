@@ -15,5 +15,5 @@ services:
   frontend:
     build:
       context: ./udagram-frontend
-    image: quangtran3519/udagram-frontend:v1
+    image: quangtran3519/udagram-frontend:v2
 
