@@ -10,4 +10,4 @@ before_install:
   - docker push quangtran3519/reverseproxy:v1
   - docker push quangtran3519/udagram-api-user:v1
   - docker push quangtran3519/udagram-api-feed:v1
-  - docker push quangtran3519/udagram-frontend:v1
+  - docker push quangtran3519/udagram-frontend:v2
